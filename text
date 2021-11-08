@@ -1,0 +1,89 @@
+/*----------------color-----------*/
+background: #9D9D9D;
+background: #B42A3D;
+background: #18ACAE;
+
+
+
+/*----------------font family-----------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+font-family: 'Poppins', sans-serif;
+
+
+/*----------------image-----------*/
+
+
+/*----------------icon-----------*/
+<!-- Owl Carousel css-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+<!-- Owl Carousel css-->
+
+<!-- jquery css-->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<!-- jquery css-->
+
+
+<!-- Owl Carousel -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js"></script>
+<!-- Owl Carousel -->
+
+<script>
+  $('.owl-carousel').owlCarousel({
+    loop: true,
+    margin: 20,
+    nav: false,
+    dots: true,
+    responsive: {
+      411: {
+        items: 1
+      },
+      768: {
+        items: 1
+      },
+      1000: {
+        items: 1
+      }
+    }
+  })
+</script>
+
+---------------------------------TEXT--------------
+
+<li> - Perf : Hexa Core</li>
+<li> - Display : 5.5"(13.97 cm)</li>
+<li> - Storage : 12 MP + 12MP</li>
+<li> - Battery : 2675 mAh- Ram3 GB</li>
+<li> - Ram3 : 3 GB</li>
+
+
+<li> - Perf : Hexa Core</li>
+<li> - Display : 5.5"(13.97 cm)</li>
+<li> - Storage : 12 MP + 12MP</li>
+<li> - Battery : 2675 mAh- Ram3 GB</li>
+<li> - Ram3 : 3 GB</li>
+
+
+
+<li> - 2.3GHz Intel Core i5 processor</li>
+<li> - 8GB LPDDR3 RAM- 128GB Solid State hard drive</li>
+<li> - Intel Iris Plus 640 Graphics</li>
+<li> - Mac OS operating system</li>
+
+
+<p> Help | my account | Warranty | Terms E Conditions | Shopping information | Gift Voucher | contact us | payment | orders | information</p>
+
+
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-youtube"></i>
+<i class="fab fa-google"></i>
+
+
+<i class="fas fa-phone-alt"></i>
+<i class="fas fa-map-marker-alt"></i>
+<i class="fas fa-envelope-open"></i>
